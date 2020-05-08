@@ -7,6 +7,12 @@ leucinwcool
 
 A Python package for analyzing and visualizing pdb and xyz file. For MolSSI webinar series.
 
+This repo is currently under development. To developmental install, download this repo and type 
+
+`pip install -e .`
+
+in the repo directory.
+
 ### Copyright
 
 Copyright (c) 2020, Chengwen Liu
