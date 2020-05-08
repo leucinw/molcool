@@ -13,6 +13,10 @@ This repo is currently under development. To developmental install, download thi
 
 in the repo directory.
 
+This package requires the following:
+- Numpy
+- Matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Chengwen Liu
